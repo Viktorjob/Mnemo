@@ -1,4 +1,4 @@
-package com.example.mnemo
+package com.viktortykh.mnemo
 
 import io.flutter.embedding.android.FlutterActivity
 
